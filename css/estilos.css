@@ -8,6 +8,14 @@ body {
     
 }
 
+#cabecera
+{
+    background: forestgreen;
+    color: white;
+    margin: 0px;
+    padding: 0 5em;
+}
+
 #container
 {
     width: 70%;
