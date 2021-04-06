@@ -62,3 +62,11 @@ body {
     clear: both;
     display: table;
 }
+
+#footer
+{
+    background: #777;
+    color: black;
+    text-align: center;
+
+}
