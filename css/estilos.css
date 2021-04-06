@@ -1,23 +1,27 @@
 body {
-    background: lightseagreen;
-    color: #333;
+
+    background: #eeebdd;
+    color: #eeebdd;
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
     margin: 0px;
     padding: 0;
-
-    
 }
 
 #cabecera
 {
-    background: url("../headerimg/dota2.png") contain;
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: #810000;
     font-weight: bold;;
     margin: 0px;
-    padding: 0.5em 0 0.5em 2em;
+    padding: 0.5em 0.5em 0.5em 0.4em;
+}
+
+#cabecera #logo
+{
+    width: 50px;
+    vertical-align: middle;
 }
 
 #container
@@ -25,8 +29,8 @@ body {
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 2px solid greenyellow;
-    margin: 0 auto;
+    border: 2px solid #ce1212;
+    margin: 0.2em auto;
 }
 
 #cabecera #tagline 
@@ -42,6 +46,7 @@ body {
 }
 
 #post {
+    background: #1b1717;
     padding: 1em;
 }
 
@@ -63,4 +68,5 @@ body {
     content: "";
     clear: both;
     display: table;
+    margin-bottom: 10px;
 }
