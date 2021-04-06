@@ -68,5 +68,12 @@ body {
     content: "";
     clear: both;
     display: table;
-    margin-bottom: 10px;
+}
+
+#footer
+{
+    background: #777;
+    color: black;
+    text-align: center;
+
 }
