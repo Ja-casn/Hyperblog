@@ -4,6 +4,7 @@
 > **Este es el curso realizado en platzi, con la intención de aplicarme en los estudios y ser alguien en la vida, todos merecemos esta oportunidad y lo lograré.**
 
 > * Proximamente
+> * Creado por el increíble Platzi Team
 
 ```
 # Python master soon
