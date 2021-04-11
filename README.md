@@ -5,7 +5,7 @@
 
 > * Proximamente
 > * Creado por el increíble Platzi Team
-
+> * Incluye ejemplos en Windows, Linux y Mac
 ```
 # Python master soon
 
